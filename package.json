@@ -1,0 +1,13 @@
+{
+    "private":  true,
+    "workspaces":  [
+                       "client",
+                       "server"
+                   ],
+    "name":  "MeTube",
+    "version":  "1.0.0",
+    "main":  "index.js",
+    "repository":  "https://github.com/ObviouslySarang/MeTube.git",
+    "author":  "ObviouslySarang \u003c2003krishnadixit@gmail.com\u003e",
+    "license":  "MIT"
+}
